@@ -1,0 +1,46 @@
+.flip {
+    padding: 5px;
+    text-align: left;
+    background-color: #e5eecc;
+    border: solid 1px #c3c3c3;
+  }
+  
+  .panel {
+    padding: 5px;
+    text-align: left;
+    padding: 50px;
+    display: none;
+    color:"red";
+    background-color: "white";    
+  }
+
+  .targetDiv {
+      display: none
+  }
+
+  form label {
+      display: inline-block;
+      width: 100px;
+  }
+  
+  form div {
+      margin-bottom: 10px;
+  }
+  
+  .error {
+      color: red;
+      margin-left: 5px;
+  }
+  
+  label.error {
+      display: inline;
+  }
+
+  .text-color {
+      color: blue;
+  }
+
+  .margin {
+      margin-top: 10px;
+      padding-left: 10px;
+  }
